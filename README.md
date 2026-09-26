@@ -23,8 +23,8 @@ Read [`problem_statement.md`](./problem_statement.md) for the full task spec, in
 Clone the repository and move into the project directory:
 
 ```bash
-git clone https://github.com/interviewstreet/hackerrank-orchestrate-september26.git
-cd hackerrank-orchestrate-september26
+git clone https://github.com/interviewstreet/buyandwait.git
+cd buyandwait
 ```
 
 Build your solution in `code/main.py`, or use another language and document its entry point clearly.
@@ -191,6 +191,4 @@ Before submitting, confirm:
 - Every `amount_safe_to_pay` satisfies `0 <= amount_safe_to_pay <= requested_amount`.
 - Every installment plan matches a supplied payment option, and every spending change targets a flexible recurring expense.
 - Your runnable code, setup instructions, and `evaluation/` folder are included in `code.zip`.
-#   B u y _ a n d _ w a i t  
- #   B u y a n d w a i t  
- 
+#
